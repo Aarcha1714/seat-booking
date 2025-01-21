@@ -19,3 +19,20 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+.bg-silver {
+  background-color: #c0c0c0; /* Silver */
+}
+
+.bg-gold {
+  background-color: #ffd700; /* Gold */
+}
+
+.bg-platinum {
+  background-color: #e5e4e2; /* Platinum */
+}
+
+.bg-opacity-50 {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+
